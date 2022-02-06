@@ -1,2 +1,2 @@
 # NumPy
-A NumPy Overview in through Jupyter Notebook
+- NumPy Overview through Jupyter Notebook
